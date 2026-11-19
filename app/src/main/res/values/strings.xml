@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Expense Note</string>
+    <string name="title_app">บันทึกรายรับ-รายจ่าย</string>
+    <string name="total_balance">ยอดเงินคงเหลือ</string>
+    <string name="total_income">รายรับรวม</string>
+    <string name="total_expense">รายจ่ายรวม</string>
+    <string name="add_transaction">เพิ่มรายการ</string>
+    <string name="dialog_add_title">เพิ่มรายการใหม่</string>
+    <string name="hint_title">ชื่อรายการ (เช่น อาหารกลางวัน)</string>
+    <string name="hint_amount">จำนวนเงิน (บาท)</string>
+    <string name="type_income">รายรับ (+)</string>
+    <string name="type_expense">รายจ่าย (-)</string>
+    <string name="category_food">อาหาร/เครื่องดื่ม</string>
+    <string name="category_transport">เดินทาง/น้ำมัน</string>
+    <string name="category_shopping">ช้อปปิ้ง</string>
+    <string name="category_utilities">ค่าน้ำ/ค่าไฟ/เน็ต</string>
+    <string name="category_entertainment">บันเทิง</string>
+    <string name="category_salary">เงินเดือน/รายได้</string>
+    <string name="category_other">อื่นๆ</string>
+    <string name="btn_save">บันทึก</string>
+    <string name="btn_cancel">ยกเลิก</string>
+    <string name="empty_list">ยังไม่มีรายการบันทึก\nกดปุ่ม "เพิ่มรายการ" เพื่อเริ่มบันทึก</string>
+    <string name="confirm_delete_title">ยืนยันการลบ</string>
+    <string name="confirm_delete_msg">คุณต้องการลบรายการนี้ใช่หรือไม่?</string>
+    <string name="btn_delete">ลบ</string>
+    <string name="error_fill_fields">กรุณากรอกข้อมูลให้ครบถ้วน</string>
+    <string name="error_invalid_amount">จำนวนเงินต้องมากกว่า 0</string>
+    <string name="label_category">หมวดหมู่</string>
+    <string name="label_date">วันที่</string>
+    <string name="label_all_items">รายการทั้งหมด</string>
+</resources>
